@@ -1,4 +1,4 @@
-- 👋 Hi, I’m morsalashrafi
+- 👋 Hi, I’m MorsalAshrafi
 - 👀 I’m interested in webdesign
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on ...
