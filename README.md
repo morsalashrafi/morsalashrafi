@@ -1,6 +1,6 @@
 - 👋 Hi, I’m MorsalAshrafi
 - 👀 I’m interested in webdesign
-- 🌱 I’m currently learning Html,Css,Js,tailwind,Bootstrap,React.
+- 🌱 I’m currently learning Html5 ,Css3 ,Js ,Tailwind ,Bootstrap ,React.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  morsalzulfikarashrafi@gmail.com
 
