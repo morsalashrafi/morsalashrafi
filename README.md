@@ -1,4 +1,4 @@
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Eater&pause=1000&width=435&lines=Morsal+Ashrafi)](https://git.io/typing-svg)
 
 
 # 💫 About Me:
