@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-👋 Hi, I’m MorsalAshrafi  --- Front-end Developer <br>💬 Ask me about: HTML5 , CSS3 , Bootstrap , Tailwind , Javascript , React , Nextjs<br>💻 A Front-End Developer from Iran. Here, you can see my projects and please ask me if you have any questions. ♥️<br>📫 How to reach me morsalzulfikarashrafi@gmail.com
+👋 Hi, I’m MorsalAshrafi - Front-End Developer <br>💬 Ask me about: HTML5 , CSS3 , Bootstrap , Tailwind , Javascript , React , Nextjs<br>💻 A Front-End Developer from Iran. Here, you can see my projects and please ask me if you have any questions. ♥️<br>📫 How to reach me morsalzulfikarashrafi@gmail.com
 
 
 ## 🌐 Socials:
