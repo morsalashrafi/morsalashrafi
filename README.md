@@ -1,6 +1,11 @@
+<div align="center">
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cherish&size=55&pause=1000&color=F70000&width=565&height=98&lines=++++++++++++++__Morsal+Ashrafi__)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nosifer&size=30&pause=1000&color=F7F409&width=565&height=98&lines=Front-End+Developer)](https://git.io/typing-svg)
+
+</div>
+
 
 # 💫 About Me:
 👋 Hi, I’m MorsalAshrafi - Front-End Developer <br>💬 Ask me about: HTML5 , CSS3 , Bootstrap , Tailwind , Javascript , React , Nextjs<br>💻 A Front-End Developer from Iran. Here, you can see my projects and please ask me if you have any questions. ♥️<br>📫 How to reach me morsalzulfikarashrafi@gmail.com
